@@ -1,0 +1,6 @@
+
+
+1- server creation
+2- connect to a database
+3- model creation
+4- CRUD (API(post put get delete))
